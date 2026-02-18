@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "BERAS IR 64 KW I",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 67.96471497252747,
+  "rmse": 175.37441804737065,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

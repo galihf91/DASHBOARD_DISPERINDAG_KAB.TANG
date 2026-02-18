@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "DAGING SAPI SEGAR",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 57.0078125,
+  "rmse": 57.0078125,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

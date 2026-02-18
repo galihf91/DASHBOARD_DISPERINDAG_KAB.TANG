@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "DAGING SAPI SEGAR",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 126.14062499998545,
+  "rmse": 126.14062499998545,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

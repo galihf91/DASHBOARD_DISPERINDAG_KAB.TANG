@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "BERAS IR 64 KW I",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 19.364193423763737,
+  "rmse": 38.602755026170726,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

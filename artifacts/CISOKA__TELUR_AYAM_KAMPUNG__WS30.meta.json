@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "TELUR AYAM KAMPUNG",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 3.32861328125,
+  "rmse": 3.32861328125,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "CABE MERAH KERITING",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 2356.499248798077,
+  "rmse": 3220.0458180975957,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

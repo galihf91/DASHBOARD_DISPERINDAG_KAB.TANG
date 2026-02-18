@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "TELUR AYAM RAS",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 331.9950635302184,
+  "rmse": 364.99952253890086,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

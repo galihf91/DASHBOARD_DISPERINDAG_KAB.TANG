@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "BAWANG PUTIH",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 893.301961710165,
+  "rmse": 1162.397144091798,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

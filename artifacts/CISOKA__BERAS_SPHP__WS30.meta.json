@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "BERAS SPHP",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 10.245203039148352,
+  "rmse": 23.069343292291755,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

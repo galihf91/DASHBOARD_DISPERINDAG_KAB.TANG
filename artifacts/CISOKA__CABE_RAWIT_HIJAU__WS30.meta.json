@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "CABE RAWIT HIJAU",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 676.1354524381868,
+  "rmse": 1217.0500879950039,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "CABE MERAH BESAR",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 755.5098729395598,
+  "rmse": 1448.5527292895824,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "BERAS SPHP",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 9.178270947802197,
+  "rmse": 19.60152707846412,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

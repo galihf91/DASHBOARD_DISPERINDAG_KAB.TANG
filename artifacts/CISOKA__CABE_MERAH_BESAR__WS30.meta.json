@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "CABE MERAH BESAR",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 969.1679902129111,
+  "rmse": 1582.7491229383227,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "MINYAK GORENG CURAH",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 74.80566406249818,
+  "rmse": 74.8056640624982,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

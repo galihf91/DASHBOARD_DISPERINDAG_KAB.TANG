@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "DAGING AYAM RAS",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 886.5045072115385,
+  "rmse": 1469.703681715412,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

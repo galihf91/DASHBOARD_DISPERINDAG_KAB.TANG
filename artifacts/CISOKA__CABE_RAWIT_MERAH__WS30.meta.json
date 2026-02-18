@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "CABE RAWIT MERAH",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 2376.180696256868,
+  "rmse": 3330.456053218397,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

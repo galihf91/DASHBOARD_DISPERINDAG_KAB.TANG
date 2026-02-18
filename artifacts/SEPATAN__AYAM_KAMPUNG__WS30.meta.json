@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "AYAM KAMPUNG",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 23.0859375,
+  "rmse": 23.0859375,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

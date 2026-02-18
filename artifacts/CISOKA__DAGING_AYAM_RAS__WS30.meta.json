@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "DAGING AYAM RAS",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 370.13573145604397,
+  "rmse": 1051.9858944982911,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

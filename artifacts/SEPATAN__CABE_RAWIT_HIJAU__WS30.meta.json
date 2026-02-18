@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "CABE RAWIT HIJAU",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 1233.2408353365386,
+  "rmse": 1960.7903035138281,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

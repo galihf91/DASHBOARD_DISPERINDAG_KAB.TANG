@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "GULA PASIR LOKAL",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 0.931640625,
+  "rmse": 0.931640625,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

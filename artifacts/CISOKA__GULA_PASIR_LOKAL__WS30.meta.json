@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "GULA PASIR LOKAL",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 0.853515625,
+  "rmse": 0.853515625,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

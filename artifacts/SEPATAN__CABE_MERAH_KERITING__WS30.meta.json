@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "CABE MERAH KERITING",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 1846.0581644917581,
+  "rmse": 2578.1953574132676,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

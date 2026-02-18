@@ -1,0 +1,10 @@
+{
+  "pasar": "SEPATAN",
+  "komoditas": "BAWANG PUTIH",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 767.5774596497253,
+  "rmse": 1234.5736041272132,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}

@@ -1,0 +1,10 @@
+{
+  "pasar": "CISOKA",
+  "komoditas": "MINYAK GORENG MINYAK KITA",
+  "window_size": 30,
+  "epochs": 30,
+  "mae": 31.130859375,
+  "rmse": 31.130859375,
+  "n_data": 483,
+  "last_date": "2025-12-25"
+}
