@@ -66,8 +66,9 @@ def render_page_header(title: str, subtitle: str, image_path="assets/background_
         <style>
         .main-header {{
             width: 100%; height: 260px;
-            background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("data:{mime};base64,{img_b64}");
-            background-size: cover; background-position: center 30%; background-repeat: no-repeat;
+            background-image: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("data:{mime};base64,{img_b64}");
+            filter: brightness(1.1);
+            background-size: cover; background-position: center 60%; background-repeat: no-repeat;
             border-radius: 16px; margin-bottom: 30px; display: flex; flex-direction: column;
             justify-content: center; align-items: center; text-align: center;
             box-shadow: 0 8px 20px rgba(0,0,0,0.2);
@@ -1114,4 +1115,5 @@ def main():
         render_dashboard_perdagangan()
 
 if __name__ == "__main__":
+
     main()
